@@ -1,4 +1,4 @@
 # pruebaGit06
-Jorge Bizoi y Julian Alcalde
+Julián Alcalde & Jorge Bizoi.
 Almacenar los proyectos de este módulo profesional.
 Vamos a trabajar con JavaScript y PHP.
